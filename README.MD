@@ -9,5 +9,5 @@
 ![Wiring](https://github.com/pangcrd/IR_ESP8266/blob/main/img/Schematic.png)
 
 ## Product&Tutorial
-![1](https://github.com/pangcrd/IR_ESP8266/blob/main/img/IR1.png)
-![2](https://github.com/pangcrd/IR_ESP8266/blob/main/img/IR2.png)
+![1](https://github.com/pangcrd/IR_ESP8266/blob/main/img/IR1.jpg)
+![2](https://github.com/pangcrd/IR_ESP8266/blob/main/img/IR2.jpg)
